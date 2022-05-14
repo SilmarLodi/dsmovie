@@ -44,18 +44,19 @@
         color: unset;
         text-decoration: none;
      }
-     . Dsmovie-contact-container {
+     .Dsmovie-contact-container {
          display: flex;
          align-items: center;
      }
-     . Dsmovie-contact-container img {
+     .Dsmovie-contact-container img {
          margin-right: 10ox;
      }
             #dsmovie-card-list {
-                padding: 40px 0;
-            }
+                padding: 40px 0;            }
             .dsmovie-card {
                 width: 360px;
+                height: 400px;
+                background-color: var(--white);
             }
             .dsmovie-card img {
                 width: 100%;
